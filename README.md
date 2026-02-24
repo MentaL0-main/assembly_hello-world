@@ -1,11 +1,17 @@
-# Hello World 
+# Assembly Hello World 
 
 this program simple write 'Hello, World!' in terminal
 
-## BIO
+## Program execute
+```bash
+./hello_world
+Hello, World!
+```
+
+## Features
 - Architecture - x64-86
 - Assembly dialect - NetWide Assembly
 - Test platform - Linux Arch
 
 ## License
-License - MIT. See LICENSE
+This project licensed under the **MIT License**.
